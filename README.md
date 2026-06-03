@@ -24,9 +24,7 @@ Glory to our Lord and Savior Jesus Christ, he gave himself on the cross even whe
 ## Developer Stats:
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=enricocancino-multiverse&theme=transparent" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=enricocancino-multiverse&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 ## Experiences:
