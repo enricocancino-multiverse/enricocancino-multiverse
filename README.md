@@ -30,8 +30,12 @@ Glory to our Lord and Savior Jesus Christ, he gave himself on the cross even whe
 ## Experiences:
 
 <ul>
-  <h3>Full-Stack Developer in:</h3>
+  <h3>Full-Stack:</h3>
   <li>Website Development</li>
   <li>System Development</li>
   <li>App Development</li>
+
+  <h3>Competent:</h3>
+  <li>Game Development</li>
+  <li>Graphic Designing</li>
 </ul>
