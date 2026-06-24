@@ -38,4 +38,7 @@ Glory to our Lord and Savior Jesus Christ, he gave himself on the cross even whe
   <h3>Competent:</h3>
   <li>Game Development</li>
   <li>Graphic Designing</li>
+
+  <h3>Education:</h3>
+  <li>Computer Science Undergraduate</li>
 </ul>
