@@ -41,4 +41,5 @@ Glory to our Lord and Savior Jesus Christ, he gave himself on the cross even whe
 
   <h3>Education:</h3>
   <li>Computer Science Undergraduate</li>
+  <li>3 years of Programming</li>
 </ul>
