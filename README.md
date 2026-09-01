@@ -18,6 +18,7 @@ Glory to our Lord and Savior Jesus Christ, he gave himself on the cross even whe
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVYhIsr-8kFbhy06wxjX_ThaBwFTrfdmFaQ&s" width="40" height="40"></a></td>
     <td><a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="40" height="40"></a></td>
     <td><a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="40" height="40"></a></td>
+    <td><a href="https://nextjs.org/"><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40" height="40"></a></td>
   </tr>
 </table>
 
@@ -37,7 +38,7 @@ Glory to our Lord and Savior Jesus Christ, he gave himself on the cross even whe
 
   <h3>Competent:</h3>
   <li>Game Development</li>
-  <li>Graphic Designing</li>
+  <li>Graphic Design</li>
 
   <h3>Education:</h3>
   <li>Computer Science Undergraduate</li>
